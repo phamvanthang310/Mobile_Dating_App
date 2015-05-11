@@ -1,4 +1,4 @@
-package com.example.thang.myapplication.SildingTab;
+package com.example.thang.DatingApp.SildingTab;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.thang.myapplication.R;
+import com.example.thang.DatingApp.R;
 
 /**
  * Created by Thang on 5/11/2015.

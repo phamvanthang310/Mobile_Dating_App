@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.example.thang.myapplication.SildingTab;
+package com.example.thang.DatingApp.SildingTab;
 
 import android.content.Context;
 import android.graphics.Typeface;
@@ -32,7 +32,7 @@ import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.thang.myapplication.R;
+import com.example.thang.DatingApp.R;
 
 /**
  * To be used with ViewPager to provide a tab indicator component which give constant feedback as to

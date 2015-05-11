@@ -1,12 +1,12 @@
-package com.example.thang.myapplication;
+package com.example.thang.DatingApp;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-import com.example.thang.myapplication.SildingTab.Tab1;
-import com.example.thang.myapplication.SildingTab.Tab2;
-import com.example.thang.myapplication.SildingTab.Tab3;
+import com.example.thang.DatingApp.SildingTab.Tab1;
+import com.example.thang.DatingApp.SildingTab.Tab2;
+import com.example.thang.DatingApp.SildingTab.Tab3;
 
 /**
  * Created by Thang on 5/10/2015.

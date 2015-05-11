@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.thang.myapplication.SildingTab;
+package com.example.thang.DatingApp.SildingTab;
 
 import android.R;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.example.thang.myapplication;
+package com.example.thang.DatingApp;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
@@ -15,7 +15,7 @@ import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.example.thang.myapplication.SildingTab.SlidingTabLayout;
+import com.example.thang.DatingApp.SildingTab.SlidingTabLayout;
 
 
 public class MainActivity extends ActionBarActivity {

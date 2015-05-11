@@ -1,4 +1,4 @@
-package com.example.thang.myapplication;
+package com.example.thang.DatingApp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

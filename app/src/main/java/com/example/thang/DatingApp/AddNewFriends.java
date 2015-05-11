@@ -1,4 +1,4 @@
-package com.example.thang.myapplication;
+package com.example.thang.DatingApp;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
