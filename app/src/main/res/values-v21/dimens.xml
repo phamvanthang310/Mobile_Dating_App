@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tool_bar_top_padding">24dp</dimen>
+    <dimen name="elevation_low">1dp</dimen>
+    <dimen name="fab_press_translation_z">9dp</dimen>
+</resources>
